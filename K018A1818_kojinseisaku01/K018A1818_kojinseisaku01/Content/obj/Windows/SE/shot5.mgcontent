@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/K018A1407/Desktop/フォルダまとめ/2年チーム制作02_ワンボタンシューティング_完成2/K018A1818_kojinseisaku01/K018A1818_kojinseisaku01/Content/SE/shot5.mp3</SourceFile>
+  <SourceTime>2019-10-27T06:44:52+09:00</SourceTime>
+  <DestFile>C:/Users/K018A1407/Desktop/フォルダまとめ/2年チーム制作02_ワンボタンシューティング_完成2/K018A1818_kojinseisaku01/K018A1818_kojinseisaku01/Content/bin/Windows/SE/shot5.xnb</DestFile>
+  <DestTime>2020-11-30T12:10:56.9590256+09:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-03-02T00:05:36+09:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-02T00:05:36+09:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

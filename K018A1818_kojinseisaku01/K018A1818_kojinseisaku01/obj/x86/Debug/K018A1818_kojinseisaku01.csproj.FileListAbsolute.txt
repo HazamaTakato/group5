@@ -1,0 +1,379 @@
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\K018A1818_kojinseisaku01.exe
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\K018A1818_kojinseisaku01.pdb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.csprojAssemblyReference.cache
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.csproj.CoreCompileInputs.cache
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.csproj.CopyComplete
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.exe
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.pdb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\title.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\ending.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Misai.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Goal.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\gameclear.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\new.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\black.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\gameover.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\space1.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作①\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\white.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\black.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\ending.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\gameclear.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\gameover.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Goal.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Misai.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\new.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\space1.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\title.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\white.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\K018A1818_kojinseisaku01.exe
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\K018A1818_kojinseisaku01.pdb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.csprojAssemblyReference.cache
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.csproj.CoreCompileInputs.cache
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.csproj.CopyComplete
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.exe
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.pdb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\space000.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.csprojAssemblyReference.cache
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.csproj.CoreCompileInputs.cache
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.exe
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.pdb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\black.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\ending.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\gameclear.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\gameover.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Goal.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Misai.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\new.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\space000.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\space1.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\title.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\white.xnb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\K018A1818_kojinseisaku01.exe
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\K018A1818_kojinseisaku01.pdb
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\K018A1818\Desktop\K018!1818_個人製作① - コピー - コピー\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.csproj.CopyComplete
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\bomb2.wma
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\bomb2.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\powerup05.wma
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\powerup05.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\shot5.wma
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\shot5.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\Clear.wma
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\Clear.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\loop.wma
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\loop.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\Over.wma
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\Over.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\Title.wma
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\Title.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\animation.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\boss.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Clear.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\enemy.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Item.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Over.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\player.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Shoot.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\stage.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Title.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\K018A1818_kojinseisaku01.exe
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\K018A1818_kojinseisaku01.pdb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.csproj.CoreCompileInputs.cache
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.csproj.CopyComplete
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.exe
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.pdb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.csprojAssemblyReference.cache
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\animationbig.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\toumei.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\titlese.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\bomb2.wma
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\bomb2.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\powerup05.wma
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\powerup05.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\shot5.wma
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\shot5.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\titlese.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\Clear.wma
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\Clear.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\loop.wma
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\loop.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\Over.wma
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\Over.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\Title.wma
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\Title.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\animation.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\animationbig.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\boss.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Clear.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\enemy.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Item.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Over.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\player.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Shoot.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\stage.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Title.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\toumei.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\K018A1818_kojinseisaku01.exe
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\K018A1818_kojinseisaku01.pdb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.csprojAssemblyReference.cache
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.csproj.CoreCompileInputs.cache
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.csproj.CopyComplete
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.exe
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.pdb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\tutorial1.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\tutorial2.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\tutorial3.xnb
+C:\Users\K018A1818\Desktop\2年チーム制作02_ワンボタンシューティング_完成\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\tutorial4.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\bomb2.wma
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\powerup05.wma
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\shot5.wma
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\SE\bomb2.wma
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\SE\bomb2.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\SE\powerup05.wma
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\SE\powerup05.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\SE\shot5.wma
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\SE\shot5.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\SE\titlese.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\BGM\Clear.wma
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\BGM\Clear.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\BGM\loop.wma
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\BGM\loop.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\BGM\Over.wma
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\BGM\Over.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\BGM\Title.wma
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\BGM\Title.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\animation.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\animationbig.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\boss.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\Clear.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\enemy.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\Item.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\Over.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\player.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\Shoot.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\stage.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\Title.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\toumei.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\tutorial1.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\tutorial2.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\tutorial3.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\tutorial4.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\bomb2.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\powerup05.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\shot5.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\titlese.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\Clear.wma
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\Clear.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\loop.wma
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\loop.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\Over.wma
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\Over.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\Title.wma
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\Title.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\animation.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\animationbig.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\boss.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Clear.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\enemy.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Item.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Over.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\player.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Shoot.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\stage.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Title.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\toumei.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\tutorial1.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\tutorial2.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\tutorial3.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\tutorial4.xnb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\K018A1818_kojinseisaku01.exe
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\K018A1818_kojinseisaku01.pdb
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.csprojAssemblyReference.cache
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.csproj.CoreCompileInputs.cache
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.csproj.CopyComplete
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.exe
+C:\Users\K018A1407\Desktop\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.pdb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\SE\bomb2.wma
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\SE\bomb2.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\SE\powerup05.wma
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\SE\powerup05.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\SE\shot5.wma
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\SE\shot5.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\SE\titlese.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\BGM\Clear.wma
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\BGM\Clear.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\BGM\loop.wma
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\BGM\loop.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\BGM\Over.wma
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\BGM\Over.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\BGM\Title.wma
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\BGM\Title.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\animation.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\animationbig.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\boss.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\Clear.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\enemy.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\Item.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\Over.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\player.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\Shoot.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\stage.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\Title.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\toumei.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\tutorial1.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\tutorial2.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\tutorial3.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Content\tutorial4.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\bomb2.wma
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\powerup05.wma
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\shot5.wma
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\bomb2.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\powerup05.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\shot5.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\SE\titlese.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\Clear.wma
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\Clear.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\loop.wma
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\loop.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\Over.wma
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\Over.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\Title.wma
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\BGM\Title.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\animation.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\animationbig.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\boss.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Clear.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\enemy.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Item.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Over.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\player.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Shoot.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\stage.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\Title.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\toumei.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\tutorial1.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\tutorial2.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\tutorial3.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\Content\tutorial4.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\K018A1818_kojinseisaku01.exe
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\K018A1818_kojinseisaku01.pdb
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.csprojAssemblyReference.cache
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.csproj.CoreCompileInputs.cache
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.csproj.CopyComplete
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.exe
+C:\Users\K018A1407\Desktop\フォルダまとめ\2年チーム制作02_ワンボタンシューティング_完成2\K018A1818_kojinseisaku01\K018A1818_kojinseisaku01\obj\x86\Debug\K018A1818_kojinseisaku01.pdb
